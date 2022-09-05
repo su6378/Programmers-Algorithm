@@ -1,4 +1,3 @@
-package com.example.test
 
 class Solution {
    fun solution(N: Int, stages: IntArray): IntArray {
