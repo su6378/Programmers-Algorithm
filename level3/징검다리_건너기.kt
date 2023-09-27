@@ -8,7 +8,7 @@ class SolutionKotlin {
     fun solution(stones: IntArray, k: Int): Int {
         var answer = 0
         var min = 1
-        var max = 20000000
+        var max = 200000000
 
         while (min <= max) {
             var mid = (min + max) / 2
